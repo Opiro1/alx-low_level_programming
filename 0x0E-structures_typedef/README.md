@@ -1,0 +1,1 @@
+The projects in this directory are in fulfilment to the ALX SE Program curriculum which aim at exposing students to user define data types. Here concepts like "struct" and "typedef" is essential as well as a prior knowledge of dynamic memory allocation in c programming.
